@@ -24,3 +24,9 @@ yarn-error.log*
 
 # vscode
 .vscode
+
+# Vite and local configuration
+/dist/
+.env
+.env.*
+!.env.example
